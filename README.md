@@ -980,30 +980,6 @@ body contenteditable="false">
 <p><a href="https://www.crunchbase.com/organization/renew-financial">Visit our HTML tutorial</a></p>
 <p><a href="https://www.crunchbase.com/organization/renew-solutions-2">Visit our HTML tutorial</a></p>
 <p><a href="https://www.crunchbase.com/organization/renew-fibre">Visit our HTML tutorial</a></p>
-<p><a href="https://www.crunchbase.com/organization/reserve">Visit our HTML tutorial</a></p>
-<p><a href="https://www.crunchbase.com/organization/reserveout">Visit our HTML tutorial</a></p>
-<p><a href="https://www.crunchbase.com/organization/standard-treasury">Visit our HTML tutorial</a></p>
-<p><a href="https://www.crunchbase.com/organization/craft-nation">Visit our HTML tutorial</a></p>
-<p><a href="https://www.crunchbase.com/organization/the-gravel-company">Visit our HTML tutorial</a></p>
-<p><a href="https://www.crunchbase.com/organization/home-network">Visit our HTML tutorial</a></p>
-<p><a href="https://www.crunchbase.com/organization/smart-destinations">Visit our HTML tutorial</a></p>
-<p><a href="https://www.crunchbase.com/organization/ford">Visit our HTML tutorial</a></p>
-<p><a href="https://www.crunchbase.com/organization/root-3">Visit our HTML tutorial</a></p>
-<p><a href="https://www.crunchbase.com/organization/root-robotics">Visit our HTML tutorial</a></p>
-<p><a href="https://www.crunchbase.com/organization/root-metrics">Visit our HTML tutorial</a></p>
-<p><a href="https://www.crunchbase.com/organization/square-root">Visit our HTML tutorial</a></p>
-<p><a href="https://www.crunchbase.com/organization/root-info-solutions">Visit our HTML tutorial</a></p>
-<p><a href="https://www.crunchbase.com/organization/selsal">Visit our HTML tutorial</a></p>
-<p><a href="https://www.crunchbase.com/organization/vanoman">Visit our HTML tutorial</a></p>
-<p><a href="https://www.crunchbase.com/organization/polisher">Visit our HTML tutorial</a></p>
-<p><a href="https://www.crunchbase.com/organization/nkt-a-s">Visit our HTML tutorial</a></p>
-<p><a href="https://www.crunchbase.com/organization/hungerstation-com">Visit our HTML tutorial</a></p>
-<p><a href="https://www.crunchbase.com/organization/station">Visit our HTML tutorial</a></p>
-<p><a href="https://www.crunchbase.com/organization/oqal-angel-investment">Visit our HTML tutorial</a></p>
-<p><a href="https://www.crunchbase.com/organization/ejadah">Visit our HTML tutorial</a></p>
-<p><a href="https://www.crunchbase.com/organization/dubai-properties-group">Visit our HTML tutorial</a></p>
-<p><a href="https://www.crunchbase.com/organization/sondooq">Visit our HTML tutorial</a></p>
-<p><a href="https://www.crunchbase.com/organization/kanoosh">Visit our HTML tutorial</a></p>
 
 
 </body>
